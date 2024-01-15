@@ -1,0 +1,9 @@
+{
+"Charges_use":"dbfs:/FileStore/bcg/Charges_use.csv",
+"Damages_use":"dbfs:/FileStore/bcg/Damages_use.csv",
+"Endorse_use":"dbfs:/FileStore/bcg/Endorse_use.csv",
+"Primary_Person_use":"dbfs:/FileStore/bcg/Primary_Person_use.csv",
+"Restrict_use":"dbfs:/FileStore/bcg/Restrict_use.csv",
+"Units_use":"dbfs:/FileStore/bcg/Units_use.csv",
+"Output_Dir":"dbfs:/FileStore/bcg/output"
+}
