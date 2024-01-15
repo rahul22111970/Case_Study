@@ -2,7 +2,7 @@ Analysis of 6 csv files containing accidents data using Pyspark:
 
 Analysis 1: Find the number of crashes (accidents) in which number of males killed are greater than 2?
 Analysis 2: How many two wheelers are booked for crashes?
-Analysis 3: Determine the Top 5 Vehicle Makes of the cars present in the crashes in which driver died and Airbags did not deploy.
+Analysis 3: Determine the Top 5 Vehicle Makers of the cars present in the crashes in which driver died and Airbags did not deploy.
 Analysis 4: Determine number of Vehicles with driver having valid licences involved in hit and run?
 Analysis 5: Which state has highest number of accidents in which females are not involved?
 Analysis 6: Which are the Top 3rd to 5th VEH_MAKE_IDs that contribute to a largest number of injuries including death
